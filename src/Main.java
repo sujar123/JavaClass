@@ -3,7 +3,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        int number = 4; // You can change this to any positive integer
+        int number = 6; // You can change this to any positive integer
         long factorial = computeFactorial(number);
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
